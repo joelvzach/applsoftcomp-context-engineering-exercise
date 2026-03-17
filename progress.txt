@@ -1,0 +1,13 @@
+# Progress Log
+# Each entry: [STATUS] filename.pdf — <one-line note on what was produced>
+# STATUS: DONE | SKIPPED | BLOCKED
+# Add new entries below. Do not remove existing ones.
+
+# COMPLETED
+
+- [DONE] Ithaca — 7-day itinerary for 12 people, $2000 budget from Binghamton
+- [DONE] Niagara — 7-day itinerary for 12 people, $2000 budget from Binghamton
+- [DONE] Teaneck — 7-day itinerary for 12 people, $2000 budget from Binghamton
+- [DONE] Buffalo — 7-day itinerary for 12 people, $2000 budget from Binghamton
+- [DONE] Rochester — 7-day itinerary for 12 people, $2000 budget from Binghamton
+- [DONE] New York City — 7-day itinerary for 12 people, $2000 budget from Binghamton
